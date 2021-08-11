@@ -1,0 +1,62 @@
+{
+  "code": "en",
+  "native": "english",
+  "english": "English",
+  "data": {
+    "global": {
+      "tagline": "Let people know which social accounts are really you",
+
+      "discover": "Discover",
+      "partners": "Partners",
+      "register": "Register",
+      "login": "Login",
+      "dashboard": "Dashboard",
+      "logout": "Log Out"
+    },
+    "discover": {
+      "title": "Discover",
+      "body": "Discover profiles based on your interests",
+      "button": "View Profile"
+    },
+    "partners": {
+      "title": "Partners",
+      "body": "The companies who support WebProfiles",
+      "button": "View Site"
+    },
+    "dashboard": {
+      "settings_button": "Account Settings",
+      "staff_dashboard_button": "Staff Dashboard",
+      "body": "Click on an icon below to link your account with that service"
+    },
+    "register": {
+      "age_verification": "I am 13+ years of age",
+      "register_button": "Register",
+      "login_button:": "Login"
+    },
+    "login": {
+      "login_button": "Login",
+      "register_button": "Register",
+      "forgot_password": "Forgot Password?",
+      "forgot_password_link": "Reset it here"
+    },
+    "settings": {
+      "title": "Account Settings",
+      "username": "Username",
+      "email": "Email",
+      "new_password": "New Password",
+      "interests": "Interests",
+      "display_on_discovery": "Display on Discovery",
+      "bio": "Bio",
+      "verify_password": "Verify Password",
+      "save_button": "Save"
+    },
+    "staff_dashboard": {
+      "title": "WebProfiles Staff Dashboard",
+      "ban_user_button": "Ban User",
+      "verify_user_button": "Verify User",
+      "action": "Action",
+      "user": "User",
+      "date": "Date"
+    }
+  }
+}
